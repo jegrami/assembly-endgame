@@ -1,7 +1,7 @@
 # Assembly-Endgame
 
 The programming-language version of the boring Hangman game. You have eight attempts to guess the 
-correct word otherwise all programming languages are eliminated, leaving only assembly language. Poor programmers will have to return to the 1950s when coding was done generally in assembly language ... `MOV` `ADD` `JMP` ... ya know. shit like that. 
+correct word otherwise all programming languages are eliminated, leaving only assembly language. For every failed attempt, one language is eliminated. And after eight failed guesses, you would have put the programming word 70 yrs backward. Poor programmers will have to return to the 1950s when coding was done generally in assembly language ... `MOV` `ADD` `JMP` ... ya know. shit like that. 
 
 ## Run the app locally
 
